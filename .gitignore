@@ -70,3 +70,38 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/myBad Studios/Core
+Assets/myBad Studios/Editor/WPServerEditor.cs
+Assets/myBad Studios/Editor/WULDEFINE.cs
+Assets/myBad Studios/Editor/WULDEFINE.cs.meta
+/Assets/myBad Studios/WordPress Bridge/Demo/Login
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_Documentation_Quickstart.pdf.meta
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_Documentation_Quickstart.pdf
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_Documentation_Advanced.pdf.meta
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_Documentation_Advanced.pdf
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_ChangeLog.txt.meta
+Assets/myBad Studios/WordPress Bridge/Documentation/Bridge_ChangeLog.txt
+Assets/myBad Studios/WordPress Bridge/Documentation/WordpressPluginInstallation.pdf
+Assets/myBad Studios/WordPress Bridge/Documentation/WordpressPluginInstallation.pdf.meta
+/Assets/myBad Studios/WordPress Bridge/Fonts
+/Assets/myBad Studios/WordPress Bridge/Localisation
+/Assets/myBad Studios/WordPress Bridge/Prefabs
+/Assets/myBad Studios/WordPress Bridge/Scripts/Login
+/Assets/myBad Studios/WordPress Bridge/Wordpress/Extras
+Assets/myBad Studios/WordPress Bridge/Wordpress/Plugins/wub_login.zip
+Assets/myBad Studios/WordPress Bridge/Wordpress/Plugins/wub_login.zip.meta
+Assets/myBad Studios/WordPress Bridge/Wordpress/Extras.meta
+/Packages
+/ProjectSettings
+Assets/myBad Studios/WordPress Bridge/Scripts/Login.meta
+/Assets/myBad Studios/WordPress Bridge/Resources
+Assets/myBad Studios/WordPress Bridge/Resources.meta
+Assets/myBad Studios/WordPress Bridge/Prefabs.meta
+Assets/myBad Studios/WordPress Bridge/Localisation.meta
+Assets/myBad Studios/WordPress Bridge/Fonts.meta
+Assets/myBad Studios/WordPress Bridge/Demo/Login.meta
+Assets/myBad Studios/Editor/WPServerEditor.cs.meta
+Assets/myBad Studios/Core.meta
+Assets/myBad Studios/.DS_Store
+Assets/.DS_Store
+.DS_Store
