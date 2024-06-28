@@ -1,4 +1,4 @@
-### WUEmailTFA
+### WordPress for Unity Data Extension
 Turn any game into a cloud based game in under 60 seconds. Install this asset into your project along side [WordPress For Unity Bridge](https://mybadstudios.com/product/wordpress-bridge/)... Done!
 
 
